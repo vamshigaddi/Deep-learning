@@ -16,10 +16,10 @@ Machine Learning Models: We trained and evaluated various machine learning model
 
 Model Evaluation: We assessed model performance using metrics such as accuracy, precision, recall. 
 
-Results
+Results:
 Our best-performing model achieved an accuracy of 81% and a recall of 80%, demonstrating its effectiveness in identifying customers at risk of churn. The insights from this project can be used to develop targeted retention strategies and improve customer satisfaction.
 
-Technologies Used
+Technologies Used:
 Python
 Jupyter Notebook
 scikit-learn
